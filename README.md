@@ -2,9 +2,9 @@
 
 Participantes do Projeto
 
-Alex Ferman
-Felipe WIll
-Cleriston Santana
-Matheus Gabriel
-Anilton Sutil da Silva
-Bruna Zumack
+Alex Ferman <br/>
+Felipe WIll <br/>
+Cleriston Santana <br/>
+Matheus Gabriel <br/>
+Anilton Sutil da Silva <br/>
+Bruna Zumack <br/>
